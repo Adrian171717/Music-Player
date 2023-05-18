@@ -1,5 +1,4 @@
 //Global Variables
-int appWidth = width, appHeight = height;
 float pauseX1, pauseY1, pauseX2, pauseY2, pauseWidth, pauseHeight;
 float pauseScaleWidth, pauseScaleHeight;
 float playX1, playY1, playX2, playY2, playX3, playY3;
